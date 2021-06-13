@@ -1,0 +1,52 @@
+body {
+  background-color: #e9ecef;
+}
+
+.container {
+  max-width: 960px;
+}
+.avatar {
+  width: 290px;
+  height: 330px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+h4 {
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+
+#description li {
+  padding-bottom: 0.7em;
+}
+
+#description ul {
+  margin: auto;
+  padding-bottom: 0.7em;
+  padding-left: 20px;
+}
+
+#project p {
+  margin-top: 10px;
+}
+
+.tbody, td, tfoot, th, thead, tr {
+  border-bottom-color: #8d8d8e75;
+  border-bottom-width: 2px;
+}
+
+.img-thumbnail {
+  padding: 0;
+}
+
+hr:not([size]) {
+  height: 2px;
+  opacity: 1;
+}
